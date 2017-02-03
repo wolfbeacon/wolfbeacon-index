@@ -1,4 +1,3 @@
-# 0_Home
 <br /><strong> Organization Website </strong><br /> 
 www.wolfbeacon.com
 <br /><strong> Organization Documents </strong><br /> 
