@@ -2,6 +2,14 @@
 www.wolfbeacon.com
 <br /><strong> Organization Documents </strong><br /> 
 https://drive.google.com/folderview?id=0B3_L5867N-uPYzA4d0plNVN3aUE&usp=sharing
+<br /><strong> Wolfbeacon's Atlassian </strong><br /> 
+https://wolfbeacon.atlassian.net
+<br /><strong> Jira Board </strong><br /> 
+https://wolfbeacon.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=WP&view=detail&selectedIssue=WP-16
+<br /><strong> Confluence Documents </strong><br /> 
+https://wolfbeacon.atlassian.net/wiki/
+<br /><strong> API Documentation </strong><br /> 
+https://api.wolfbeacon.com/docs/
 
 ##Why Open Source?
 
