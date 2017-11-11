@@ -1,3 +1,7 @@
+# WolfBeacon Index
+
+Contains organisational resources for reference and getting started.
+
 ## Getting Started
 https://wolfbeacon.atlassian.net/wiki/spaces/WG/pages/73793537/Getting+Started+for+Developers
 ## Product Requirements
@@ -5,7 +9,7 @@ https://wolfbeacon.atlassian.net/wiki/spaces/WC/pages/723756/Product+requirement
 ## Confluence Documents 
 https://wolfbeacon.atlassian.net/wiki/ 
 ## Jira Board 
-https://wolfbeacon.atlassian.net/secure/RapidBoard.jspa?rapidView=2&projectKey=WP&view=detail&selectedIssue=WP-16 
+https://wolfbeacon.atlassian.net/secure/RapidBoard.jspa
 ## Organization Website 
 https://www.wolfbeacon.com 
 ## Wolfbeacon's Atlassian 
